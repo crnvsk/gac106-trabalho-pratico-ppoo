@@ -7,7 +7,7 @@
 
 **Tema escolhido**: Parques de Diversão
 
-**Integrantes** (preencha abaixo):
+**Integrantes**:
 
 - João Pedro Alves Carneiro Valadão
 - Paulo Henrique Teixeira Pompeu
@@ -42,8 +42,6 @@ classDiagram
 
 ## Checklist para a Primeira Entrega
 
-**Preencha a coluna _Respostas_** na tabela abaixo **antes de fazer a primeira entrega**.
-
 - Obs.: a coluna _Id_ indica a seção das Instruções do trabalho.
 
 |  Id   |  Descrição                                                         | Respostas | 
@@ -67,8 +65,6 @@ classDiagram
 | 3.1.7 | Código está legível, organizado e bem comentado?                   |   (sim)   | 
 
 ## Checklist para a Entrega Final
-
-**Preencha a coluna _Respostas_** na tabela abaixo **antes da entrega final**.
 
 - Obs.: a coluna _Id_ indica a seção das Instruções do trabalho.
 
